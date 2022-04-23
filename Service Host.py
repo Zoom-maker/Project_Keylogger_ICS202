@@ -47,9 +47,9 @@ def SendEmail():
 
     # Credenciales del email
 
-    sender_address = 'loganalize701@gmail.com'
-    sender_pass = 'rvSXgALUbmv8fit'
-    receiver_address = 'rr4927563@gmail.com'
+    sender_address = 'example@example.com'
+    sender_pass = 'examplepass'
+    receiver_address = 'example@example.com'
     date_hour = time.strftime("%c")
     
     # Setup the MIME
